@@ -31,7 +31,7 @@ Looking for technical guidance on how to build your own services with our produc
 
 Eksempel på bilde:
 
-{{< image filename="integrasjonsskisse.png" figcaption="Overordnet integrasjonsskisse" >}}
+![Overordnet integrasjonsskisse](integrasjonsskisse.png "Overordnet integrasjonsskisse")
 
 ## Eksempel på fil som kan lastes ned:
 
