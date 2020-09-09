@@ -1,4 +1,4 @@
-# Hugo Altinn Theme
+# Altinn Hugo Theme
 This repository contains a theme for [Hugo](https://gohugo.io/), based on great [docdock](http://docdock.netlify.com/). A big thanks to Valere Jeantet.
 
 ![Example](https://raw.githubusercontent.com/Altinn/hugo-theme-altinn/master/example.png "Example")
